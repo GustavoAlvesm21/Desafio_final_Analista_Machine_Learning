@@ -6,6 +6,32 @@ O objetivo do projeto é comparar diferentes técnicas de Machine Learning e Dee
 
 ---
 
+## 📚 Conteúdo do Projeto
+
+O projeto está organizado em tópicos, cada um abordando um conceito importante de Machine Learning e Deep Learning aplicado à previsão de inadimplência.
+
+### Tópico 1 – Modelos de Classificação
+Implementação e comparação entre **Regressão Logística**, **Árvore de Decisão** e **Support Vector Machine (SVM)**, destacando suas vantagens e desvantagens no problema de classificação de inadimplência.
+
+### Tópico 2 – Overfitting e Underfitting
+Discussão sobre os conceitos de **overfitting** e **underfitting**, além da implementação de estratégias de regularização para melhorar a capacidade de generalização dos modelos.
+
+### Tópico 3 – Redes Neurais
+Desenvolvimento de uma **Rede Neural Artificial** básica e de um modelo **Deep Learning** utilizando **PyTorch**, comparando desempenho, custo computacional e necessidade de dados.
+
+### Tópico 4 – Métodos Ensemble
+Implementação do **XGBoost** e estudo dos métodos de **Bagging (Random Forest)** e **Boosting (XGBoost)**. Também são abordados:
+- Otimização de hiperparâmetros com **Grid Search** e **Random Search**;
+- Validação cruzada utilizando **Stratified K-Fold**, além da explicação de **K-Fold** e **Leave-One-Out (LOOCV)**.
+
+### Tópico 5 – Redes Recorrentes
+Implementação de uma **RNN** e de uma **LSTM**, destacando como as LSTMs resolvem limitações das RNNs através do uso de células de memória para capturar dependências de longo prazo.
+
+### Tópico 6 – MLOps
+Apresentação dos conceitos de **MLOps**, incluindo rastreamento de experimentos com **MLflow**, gerenciamento de modelos e boas práticas para implantação e manutenção de modelos em produção.
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - Python 3.12
